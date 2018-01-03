@@ -1,0 +1,220 @@
+Uri: https://sa-mp.com/
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\index.htm
+Content Type: text/html
+
+Uri: https://sa-mp.com/templates/style.css
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\templates\style.css
+Content Type: text/css
+
+Uri: https://sa-mp.com/download.php
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\download.htm
+Content Type: text/html
+
+Uri: https://sa-mp.com/media.php
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\media.htm
+Content Type: text/html
+
+Uri: http://www.sa-mp.com/download.php
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\download-1.htm
+Content Type: text/html
+
+Uri: https://sa-mp.com/images/logo.gif
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\images\logo.gif
+Content Type: image/gif
+
+Uri: http://www.sa-mp.com/grad_thead2.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\grad_thead2.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/grad_thead1.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\grad_thead1.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/service_agreement.txt
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\service_agreement.txt
+Content Type: text/plain
+
+Uri: https://sa-mp.com/screens/s022_1.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_1.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_2.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_2.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_3.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_3.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_4.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_4.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_5.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_5.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_6.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_6.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_7.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_7.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_8.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_8.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/screens/s022_9.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_9.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/samp_logo.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\samp_logo.png
+Content Type: image/png
+
+Uri: https://sa-mp.com/samp_logo.svg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\samp_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://sa-mp.com/screens/s022_1.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_1.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_2.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_2.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_3.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_3.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_4.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_4.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_5.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_5.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_6.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_6.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_7.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_7.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_8.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_8.jpg
+Content Type: image/jpeg
+
+Uri: https://sa-mp.com/screens/s022_9.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/templates/style.css
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\templates\style-1.css
+Content Type: text/css
+
+Uri: http://www.sa-mp.com/
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.sa-mp.com/media.php
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\media-1.htm
+Content Type: text/html
+
+Uri: http://www.sa-mp.com/service_agreement.txt
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\service_agreement-1.txt
+Content Type: text/plain
+
+Uri: http://www.sa-mp.com/images/logo.gif
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\images\logo-1.gif
+Content Type: image/gif
+
+Uri: http://www.sa-mp.com/images/header_kc1.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\images\header_kc1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_1.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_1-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_2.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_2-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_3.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_3-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_4.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_4-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_5.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_5-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_6.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_6-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_7.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_7-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_8.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_8-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/screens/s022_9.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_9-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/samp_logo.png
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\samp_logo-1.png
+Content Type: image/png
+
+Uri: http://www.sa-mp.com/samp_logo.svg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\samp_logo-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.sa-mp.com/screens/s022_1.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_1-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_2.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_3.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_4.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_4-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_5.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_5-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_6.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_6-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_7.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_7-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_8.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_8-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.sa-mp.com/screens/s022_9.jpg
+File Name: C:\Users\Braian\Desktop\Pagina WEB\BuilderTeam\sa-mp.com\screens\s022_9-1.jpg
+Content Type: image/jpeg
+
